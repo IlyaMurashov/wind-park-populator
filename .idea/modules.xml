@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wind-park-populator.iml" filepath="$PROJECT_DIR$/.idea/modules/wind-park-populator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wind-park-populator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wind-park-populator_main.iml" group="wind-park-populator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wind-park-populator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wind-park-populator_test.iml" group="wind-park-populator" />
+    </modules>
+  </component>
+</project>
